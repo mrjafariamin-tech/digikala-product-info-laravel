@@ -1,4 +1,4 @@
-**1**. Laravel Installation & Required Packages
+**1**. Required Packages
 
 ```bash
 # For Excel export
